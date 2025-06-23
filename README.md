@@ -31,7 +31,7 @@ This automation solution simultaneously enhances both **accuracy and efficiency*
 | **Data Management** | Manual recording | Automated reports | **Zero Errors** |
 
 ## System Architecture
-
+![Image](https://github.com/user-attachments/assets/11234242-fb45-4f51-9d5d-b5f6e049fdf2)
 ```
 Image Capture    Rotation Correction    AI Detection    Distance Calculation    Report Generation
    (9 images)   →   (Custom Algorithm)  →  (Faster R-CNN) →    (17 gaps)       →    (Excel/CSV)
@@ -113,9 +113,10 @@ Extrusion Die Inspection System/
 
 ## Core Functionality by File
 
-![Image](https://github.com/user-attachments/assets/11234242-fb45-4f51-9d5d-b5f6e049fdf2)
 
 ### **GUI System**
+
+![Image](https://github.com/user-attachments/assets/11234242-fb45-4f51-9d5d-b5f6e049fdf2)
 
 **simple_session_manager.py**
 - **Keywords**: Session management, settings save/load, die number management
