@@ -113,6 +113,8 @@ Extrusion Die Inspection System/
 
 ## Core Functionality by File
 
+![Image](https://github.com/user-attachments/assets/11234242-fb45-4f51-9d5d-b5f6e049fdf2)
+
 ### **GUI System**
 
 **simple_session_manager.py**
