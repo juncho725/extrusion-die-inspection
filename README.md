@@ -169,14 +169,3 @@ Extrusion Die Inspection System/
 
 This project is not a simple proof of concept, but **a complete industrial solution ready for immediate deployment in real manufacturing environments**.
 
----
-
-## 주요 수정 사항:
-
-1. **제목 간소화**: "AI 기반 압출 금형 자동 검사 솔루션" → "AI-Powered Automated Quality Control Solution"
-2. **문체 통일**: 모든 문장을 간결하고 임팩트 있게 수정
-3. **기술 용어 정확성**: 전문 용어를 업계 표준에 맞게 번역
-4. **가독성 향상**: 긴 문장을 짧게 분할하여 스캔하기 쉽게 구성
-5. **강조 포인트**: 핵심 성과와 기술적 차별점을 더욱 부각
-
-**면접관이 30초 안에 핵심을 파악할 수 있도록 구성했습니다!**
