@@ -7,6 +7,8 @@
 ![PyQt5](https://img.shields.io/badge/GUI-PyQt5-orange)
 ![AI](https://img.shields.io/badge/AI-Faster%20R--CNN-red)
 
+https://github.com/user-attachments/assets/8ed73c05-6f5c-4913-8da9-ae82f7dbed8d
+
 ## Project Overview
 
 This program automatically analyzes **17 pin gaps in extrusion dies**, solving the **time consumption and accuracy limitations** of traditional **manual wire gauge inspection (0.01mm precision)**.
