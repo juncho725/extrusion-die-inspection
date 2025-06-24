@@ -7,7 +7,8 @@
 ![PyQt5](https://img.shields.io/badge/GUI-PyQt5-orange)
 ![AI](https://img.shields.io/badge/AI-Faster%20R--CNN-red)
 
-https://github.com/user-attachments/assets/8ed73c05-6f5c-4913-8da9-ae82f7dbed8d
+https://github.com/user-attachments/assets/c5b4be7f-f8c4-4b7c-b02c-3f755c037b34
+
 ![Image](https://github.com/user-attachments/assets/b47a9535-349e-4831-acb7-187a44bfa5f5)
 ## Project Overview
 
