@@ -9,7 +9,6 @@
 
 https://github.com/user-attachments/assets/c5b4be7f-f8c4-4b7c-b02c-3f755c037b34
 
-![Image](https://github.com/user-attachments/assets/b47a9535-349e-4831-acb7-187a44bfa5f5)
 ## Project Overview
 
 This program automatically analyzes **17 pin gaps in extrusion dies**, solving the **time consumption and accuracy limitations** of traditional **manual wire gauge inspection (0.01mm precision)**.
@@ -21,6 +20,7 @@ This program automatically analyzes **17 pin gaps in extrusion dies**, solving t
 * **Intuitive GUI** enabling **any operator to use easily**
 
 This automation solution simultaneously enhances both **accuracy and efficiency** of extrusion die quality inspection.
+![Image](https://github.com/user-attachments/assets/b47a9535-349e-4831-acb7-187a44bfa5f5)
 
 ## Key Achievements
 
