@@ -19,7 +19,8 @@ This program automatically analyzes **17 pin gaps in extrusion dies**, solving t
 * **Intuitive GUI** enabling **any operator to use easily**
 
 This automation solution simultaneously enhances both **accuracy and efficiency** of extrusion die quality inspection.
-![Image](https://github.com/user-attachments/assets/b47a9535-349e-4831-acb7-187a44bfa5f5)
+
+<img src="https://github.com/user-attachments/assets/b47a9535-349e-4831-acb7-187a44bfa5f5" width="600">
 
 ## Key Achievements
 
@@ -31,7 +32,7 @@ This automation solution simultaneously enhances both **accuracy and efficiency*
 | **Data Management** | Manual recording | Automated reports | **Zero Errors** |
 
 ## System Architecture
-![Image](https://github.com/user-attachments/assets/3f463320-595f-4b53-9064-0507cf0c400b)
+<img src="https://github.com/user-attachments/assets/3f463320-595f-4b53-9064-0507cf0c400b" width="500">
 ```
 Image Capture    Rotation Correction    AI Detection    Distance Calculation    Report Generation
    (9 images)   →   (Custom Algorithm)  →  (Faster R-CNN) →    (17 gaps)       →    (Excel/CSV)
@@ -116,7 +117,7 @@ Extrusion Die Inspection System/
 
 ### **GUI System**
 
-![Image](https://github.com/user-attachments/assets/11234242-fb45-4f51-9d5d-b5f6e049fdf2)
+<img src="https://github.com/user-attachments/assets/11234242-fb45-4f51-9d5d-b5f6e049fdf2" width="550">
 
 **simple_session_manager.py**
 - **Keywords**: Session management, settings save/load, die number management
