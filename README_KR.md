@@ -9,6 +9,8 @@
 
 ## 🛠️ 프로젝트 개요
 
+https://github.com/user-attachments/assets/c5b4be7f-f8c4-4b7c-b02c-3f755c037b34
+
 이 프로그램은 **압출 금형의 핀 사이 간극(17개)**을 자동으로 분석하여 기존 **수작업 철사(0.01mm 단위) 검수 방식**의 **시간 소모와 정확도 한계**를 해결합니다.
 
 * **기존 수작업**: 1개당 약 10분, 10개 기준 **약 100분 소요**
@@ -18,6 +20,8 @@
 * **작업자 누구나 쉽게 사용할 수 있도록** 직관적인 GUI 제공
 
 압출 금형 품질 검수의 **정확도와 효율성**을 동시에 높일 수 있는 자동화 솔루션입니다.
+
+<img src="https://github.com/user-attachments/assets/b47a9535-349e-4831-acb7-187a44bfa5f5" width="600">
 
 ## 🎯 핵심 성과
 
@@ -29,6 +33,8 @@
 | 📊 **데이터 관리** | 수동 기록 | 자동 리포트 | **오류 제로** |
 
 ## 🏗️ 시스템 아키텍처
+
+<img src="https://github.com/user-attachments/assets/3f463320-595f-4b53-9064-0507cf0c400b" width="600">
 
 ```
 📷 이미지 캡처     🔄 회전 보정       🤖 AI 검출        📏 거리 계산      📊 리포트 생성
@@ -102,6 +108,8 @@ scaled_distance = vertical_distance * PIXEL_TO_MM_SCALE
     └── 🖼️  visualizations/        # AI 검출 결과 이미지
 ```
 
+<img src="https://github.com/user-attachments/assets/11234242-fb45-4f51-9d5d-b5f6e049fdf2" width="600">
+
 ## 🚀 실제 적용 효과
 
 ### **정량적 성과**
@@ -125,5 +133,3 @@ scaled_distance = vertical_distance * PIXEL_TO_MM_SCALE
 이 프로젝트는 단순한 개념 증명이 아닌, **실제 현장에서 바로 사용 가능한 완성된 산업용 솔루션**입니다.
 
 ---
-
-이제 면접관들이 "와, 정말 실무에서 쓸 수 있는 완성도 높은 프로젝트네!" 라고 생각할 것 같아요! 💪
