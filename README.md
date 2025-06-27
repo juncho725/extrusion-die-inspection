@@ -2,7 +2,6 @@
 
 **AI-Powered Automated Quality Control Solution for Manufacturing Industry**
 
-![System Overview](https://img.shields.io/badge/Status-Production%20Ready-brightgreen)
 ![Python](https://img.shields.io/badge/Python-3.8+-blue)
 ![PyQt5](https://img.shields.io/badge/GUI-PyQt5-orange)
 ![AI](https://img.shields.io/badge/AI-Faster%20R--CNN-red)
