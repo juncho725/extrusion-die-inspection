@@ -7,11 +7,7 @@
 ![PyQt5](https://img.shields.io/badge/GUI-PyQt5-orange)
 ![AI](https://img.shields.io/badge/AI-Faster%20R--CNN-red)
 
-<div align="center">
-  <video width="700" controls>
-    <source src="https://github.com/user-attachments/assets/c5b4be7f-f8c4-4b7c-b02c-3f755c037b34" type="video/mp4">
-  </video>
-</div>
+https://github.com/user-attachments/assets/c5b4be7f-f8c4-4b7c-b02c-3f755c037b34
 
 ## Project Overview
 
