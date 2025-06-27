@@ -12,11 +12,12 @@ https://github.com/user-attachments/assets/c5b4be7f-f8c4-4b7c-b02c-3f755c037b34
 
 This program automatically analyzes **17 pin gaps in extrusion dies**, solving the **time consumption and accuracy limitations** of traditional **manual wire gauge inspection (0.01mm precision)**.
 
-* **Traditional Manual Method**: ~10 minutes per unit, **~100 minutes for 10 units**
-* **This Program**: 10 consecutive analyses, **completed within 8 minutes**
-* **10x Precision Improvement**: Automated measurement up to ±0.001mm
-* **Automatic CSV saving** and **Excel report generation**
-* **Intuitive GUI** enabling **any operator to use easily**
+
+- **Traditional Manual Method**: ~10 minutes per unit, **~100 minutes for 10 units**
+- **This Program**: 10 consecutive analyses, **completed within 8 minutes**
+- **10x Precision Improvement**: Automated measurement up to ±0.001mm
+- **Automatic CSV saving** and **Excel report generation**
+- **Intuitive GUI** enabling **any operator to use easily**
 
 This automation solution simultaneously enhances both **accuracy and efficiency** of extrusion die quality inspection.
 
@@ -33,6 +34,7 @@ This automation solution simultaneously enhances both **accuracy and efficiency*
 
 ## System Architecture
 <img src="https://github.com/user-attachments/assets/3f463320-595f-4b53-9064-0507cf0c400b" width="500">
+
 ```
 Image Capture    Rotation Correction    AI Detection    Distance Calculation    Report Generation
    (9 images)   →   (Custom Algorithm)  →  (Faster R-CNN) →    (17 gaps)       →    (Excel/CSV)
