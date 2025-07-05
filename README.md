@@ -1,7 +1,7 @@
 # Extrusion Die Automatic Inspection System
 
 **AI-Powered Automated Quality Control Solution for Manufacturing Industry**
-
+🇰🇷 [한국어 설명 보기](./README_KR.md)
 ![Python](https://img.shields.io/badge/Python-3.8+-blue)
 ![PyQt5](https://img.shields.io/badge/GUI-PyQt5-orange)
 ![AI](https://img.shields.io/badge/AI-Faster%20R--CNN-red)
