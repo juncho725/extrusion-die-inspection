@@ -1,5 +1,7 @@
 # 🏭 Extrusion Die Automatic Inspection System
 
+🇺🇸 [View English Version](./README.md)
+
 > **AI 기반 압출 금형 자동 검사 솔루션 - 제조업 품질검사 혁신**
 
 ![System Overview](https://img.shields.io/badge/Status-Production%20Ready-brightgreen)
